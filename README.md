@@ -47,5 +47,6 @@ I am a BA CPSC student at Clemson University
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abcarso&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
