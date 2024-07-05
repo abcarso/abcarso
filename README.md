@@ -31,7 +31,7 @@ In my free time I enjoy:
 
 ---
 
-### Languages I've Used (click for examples):
+### Languages I've Used (click for examples)
 <div>
   <a href="https://github.com/abcarso/fishing-game">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -50,7 +50,7 @@ In my free time I enjoy:
   <a/>
 </div>
 
-### Tools I've Used:
+### Tools I've Used
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original-wordmark.svg" title="Processing" alt="Processing" width="50" height="50"/>&nbsp;
