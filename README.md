@@ -63,5 +63,5 @@ In my free time I enjoy:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abcarso&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  *Doesn't count forked repositories or contributions*
+  Doesn't count forked repositories or contributions
 </div>
