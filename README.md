@@ -23,22 +23,29 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">
-  Hi there 👋
+  Hello! 👋
 </h1>
 
 ---
 
 ### About Me :
-I am a BA CPSC student at Clemson University
-- Currently in my 4th year
-- Minoring in Psychology
-- For fun I play both board and video games, paint, and knit & crochet
+I am a BA CPSC student at Clemson University (Currently in my 4th year)
+I have a passion for game design, and hope to one day make games
+In my free time I enjoy:
+- Board games
+- Video games
+- Painting
+- Kniting/Crocheting
+- Ultimate Frisbee
+- Rock Climbing
 
 ---
 
 ### Languages and Tools I've Used in Projects :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <a href="https://github.com/abcarso/fishing-game">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <a/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
