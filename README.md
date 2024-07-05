@@ -20,12 +20,12 @@ I am a BA CPSC student at Clemson University (Currently in my 4th year)
 
 I have a passion for game design, and hope to one day make games
 In my free time I enjoy:
-- :Board games
-- Video games
-- Painting
-- Kniting/Crocheting
-- Ultimate Frisbee
-- Rock Climbing
+- 🎲Board games
+- 🎮Video games
+- 🎨Painting
+- 🧶Kniting/Crocheting
+- 🥏Ultimate Frisbee
+- 🧗Rock Climbing
 
 ---
 
