@@ -50,4 +50,4 @@ I am a BA CPSC student at Clemson University
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abcarso&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abcarso&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
