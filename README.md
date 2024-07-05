@@ -50,9 +50,6 @@ In my free time I enjoy:
   <a/>
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abcarso&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tools I've Used:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
@@ -62,3 +59,5 @@ In my free time I enjoy:
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="50" height="50"/>&nbsp;
 </div>
 
+### Fun Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abcarso&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
