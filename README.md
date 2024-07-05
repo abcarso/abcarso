@@ -1,17 +1,4 @@
-<!--
-**abcarso/abcarso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNyZzVwdjJnejg2MGNxNGQwNm0wcG83Zm0ydG85YnI3aDVkaHlyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/41GcxPlfVrgli/giphy.gif" width="100"/>
 </div>
@@ -33,7 +20,7 @@ I am a BA CPSC student at Clemson University (Currently in my 4th year)
 
 I have a passion for game design, and hope to one day make games
 In my free time I enjoy:
-- Board games
+- :Board games
 - Video games
 - Painting
 - Kniting/Crocheting
@@ -47,10 +34,18 @@ In my free time I enjoy:
   <a href="https://github.com/abcarso/fishing-game">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <a/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
+  <a href="https://github.com/abcarso/tic-tac-toe-extended">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <a/>
+  <a href="https://github.com/abcarso/node-list-in-c">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <a/>
+  <a href="https://github.com/abcarso/simple-card-game">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <a/>
+  <a href="https://github.com/abcarso/TeamDAXT-VR-Project">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
+  <a/>
 </div>
 
 
