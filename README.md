@@ -32,8 +32,8 @@ In my free time I enjoy:
 
 ---
 ### Big Projects
-- 🎮 [**Wolf in the Woods**](https://github.com/abcarso/4720Project) — Unity 3D atmospheric game  
-- 🌐 [**Happy Drivers**](https://github.com/abcarso/HappyDrivers) — Full-stack web application using Next.js, React, AWS, MySQL
+- [**Wolf in the Woods**](https://github.com/abcarso/4720Project) — Unity 3D atmospheric game  
+- [**Happy Drivers**](https://github.com/abcarso/HappyDrivers) — Full-stack web application using Next.js, React, AWS, MySQL
 
     
 ### Languages I've Used (click for examples)
