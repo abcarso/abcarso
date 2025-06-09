@@ -10,13 +10,14 @@
 </div>
 
 <h1 align="center">
-  Hello! 👋
+  Hello! 👋 I'm Alaina Tan
 </h1>
 
 ---
 
 ### About Me :
-I am a Clemson University Graduate with a BA in CPSC and a Minor in Psychology
+🎓 Clemson University BA in Computer Science, Minor in Psychology (May 2025)  
+🎮 Passionate about game design and software development  
 
 I have a passion for game design, and hope to one day make games!
 
@@ -31,11 +32,9 @@ In my free time I enjoy:
 
 ---
 ### Big Projects
-<div>
-  <a href="https://github.com/abcarso/HappyDrivers">
-    <Click Here>
-  <a/>
-</div>
+- 🎮 [**Wolf in the Woods**](https://github.com/abcarso/4720Project) — Unity 3D atmospheric game  
+- 🌐 [**Happy Drivers**](https://github.com/abcarso/HappyDrivers) — Full-stack web application using Next.js, React, AWS, MySQL
+
     
 ### Languages I've Used (click for examples)
 <div>
