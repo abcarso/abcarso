@@ -16,7 +16,7 @@
 ---
 
 ### About Me :
-I am a BA CPSC student at Clemson University (Currently in my 4th year)
+I am a Clemson University Graduate with a BA in CPSC and a Minor in Psychology
 
 I have a passion for game design, and hope to one day make games!
 
@@ -30,7 +30,13 @@ In my free time I enjoy:
 - 🧗Rock Climbing
 
 ---
-
+### Big Projects
+<div>
+  <a href="https://github.com/abcarso/HappyDrivers">
+    <Click Here>
+  <a/>
+</div>
+    
 ### Languages I've Used (click for examples)
 <div>
   <a href="https://github.com/abcarso/fishing-game">
@@ -45,7 +51,7 @@ In my free time I enjoy:
   <a href="https://github.com/abcarso/simple-card-game">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
   <a/>
-  <a href="https://github.com/abcarso/WolfInTheWoods">
+  <a href="https://github.com/abcarso/4720Project">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
   <a/>
 </div>
@@ -57,11 +63,4 @@ In my free time I enjoy:
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg" title="Trello" alt="Trello" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="50" height="50"/>&nbsp;
-</div>
-
-### Fun Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abcarso&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
-  Doesn't count forked repositories or contributions
 </div>
