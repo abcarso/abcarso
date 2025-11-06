@@ -16,10 +16,10 @@
 ---
 
 ### About Me :
-🎓 Clemson University BA in Computer Science, Minor in Psychology (May 2025)  
-🎮 Passionate about game design and software development  
+🎓 I am a graduate of Clemson University with a BA in Computer Science, Minor in Psychology (May 2025)  
+🎮 I am passionate about game and software development!
 
-I have a passion for game design, and hope to one day make games!
+Check out some of my game jam projects here: [**Itch.io**](https://arwensylveck.itch.io/)
 
 In my free time I enjoy:
 - 📖Reading
@@ -31,29 +31,9 @@ In my free time I enjoy:
 - 🧗Rock Climbing
 
 ---
-### Big Projects
+### Semester Projects
 - [**Wolf in the Woods**](https://github.com/abcarso/WolfInTheWoods) — Unity 3D atmospheric game  
 - [**Happy Drivers**](https://github.com/abcarso/HappyDrivers) — Full-stack web application using Next.js, React, AWS, MySQL
-
-    
-### Languages I've Used (click for examples)
-<div>
-  <a href="https://github.com/abcarso/fishing-game">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/abcarso/tic-tac-toe-extended">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/abcarso/node-list-in-c">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/abcarso/simple-card-game">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/abcarso/4720Project">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>
-  </a>
-</div>
 
 ---
 
