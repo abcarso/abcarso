@@ -36,6 +36,10 @@ In my free time I enjoy:
 - [**Happy Drivers**](https://github.com/abcarso/HappyDrivers) — Full-stack web application using Next.js, React, AWS, MySQL
 
 ---
+### Art Projects
+
+
+---
 
 ### Tools & Frameworks
 <div>
