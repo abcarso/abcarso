@@ -28,15 +28,15 @@ In my free time I enjoy:
 - 🧶Kniting/Crocheting
 - 🥏Ultimate Frisbee
 - 🧗Rock Climbing
-
+  
+---
+### Game Jams
+- Check out some of my game jam projects here: [**Itch.io**](https://arwensylveck.itch.io/)
 ---
 ### Semester Projects
 - [**Wolf in the Woods**](https://github.com/abcarso/WolfInTheWoods) — Unity 3D atmospheric game  
 - [**Happy Drivers**](https://github.com/abcarso/HappyDrivers) — Full-stack web application using Next.js, React, AWS, MySQL
 
----
-### Game Jams
-  Check out some of my game jam projects here: [**Itch.io**](https://arwensylveck.itch.io/)
 ---
 
 ### Tools & Frameworks
