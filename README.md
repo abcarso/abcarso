@@ -19,7 +19,6 @@
 🎓 I am a graduate of Clemson University with a BA in Computer Science, Minor in Psychology (May 2025)  
 🎮 I am passionate about game and software development!
 
-Check out some of my game jam projects here: [**Itch.io**](https://arwensylveck.itch.io/)
 
 In my free time I enjoy:
 - 📖Reading
@@ -36,9 +35,8 @@ In my free time I enjoy:
 - [**Happy Drivers**](https://github.com/abcarso/HappyDrivers) — Full-stack web application using Next.js, React, AWS, MySQL
 
 ---
-### Art Projects
-
-
+### Game Jams
+  Check out some of my game jam projects here: [**Itch.io**](https://arwensylveck.itch.io/)
 ---
 
 ### Tools & Frameworks
